@@ -1,6 +1,6 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-NZ1,https://raw.githubusercontent.com/pgeenz/appletv/main/NZ1.jpeg,0:30:00,0:00:1,1/1/18 0:00,12/31/30 23:59,yes
-NZ2,https://raw.githubusercontent.com/pgeenz/appletv/main/NZ2.jpeg,0:30:00,0:00:1,1/1/18 0:00,12/31/30 23:59,yes
+NZ1,https://raw.githubusercontent.com/pgeenz/appletv/main/NZ2.jpeg,0:30:00,0:00:1,1/1/18 0:00,12/31/30 23:59,yes
+NZ2,https://raw.githubusercontent.com/pgeenz/appletv/main/NZ1.jpeg,0:30:00,0:00:1,1/1/18 0:00,12/31/30 23:59,yes
 NZ3,https://raw.githubusercontent.com/pgeenz/appletv/main/NZ3.jpeg,0:30:00,0:00:1,1/1/18 0:00,12/31/30 23:59,yes
 NZ4,https://raw.githubusercontent.com/pgeenz/appletv/main/NZ4.jpeg,0:30:00,0:00:1,1/1/18 0:00,12/31/30 23:59,yes
 NZ5,https://raw.githubusercontent.com/pgeenz/appletv/main/NZ5.jpeg,0:30:00,0:00:1,1/1/18 0:00,12/31/30 23:59,yes
